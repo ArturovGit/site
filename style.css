@@ -60,7 +60,7 @@ nav a {
 
 /* Добавить цвет для активной/текущей ссылки */
 .navbar a.active {
-  background-color: #4CAF50;
+  background-color: #000000;
   color: white;
 }
 
